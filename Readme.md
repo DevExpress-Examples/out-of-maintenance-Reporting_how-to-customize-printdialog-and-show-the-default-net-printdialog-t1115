@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GridPrinting/Form1.cs) (VB: [Form1.vb](./VB/GridPrinting/Form1.vb))
+* [Form2.cs](./CS/GridPrinting/Form2.cs) (VB: [Form2.vb](./VB/GridPrinting/Form2.vb))
+* [Program.cs](./CS/GridPrinting/Program.cs) (VB: [Program.vb](./VB/GridPrinting/Program.vb))
+<!-- default file list end -->
 # How to customize PrintDialog and show the default .Net PrintDialog
 
 
